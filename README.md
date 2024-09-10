@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Citcuitalchixx
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Title
+Online Chatbot Based Ticketing System
 
-## Available Scripts
+## Team Details
+- *Team Leader:* Palak Thareja
+- *Team Members:* 
+  - Palak Thareja-2021UEE3646  
+  - Divyam Singh-2021UEE4599  
+  - Himani Dua-2021UEE4592
+  - Chirag Maini-2021UEE4659
+  - Kanishk-2022UEE4600
+  - Ansh Bhatla-2021UEC2527
 
-In the project directory, you can run:
+## Project Description
+Project Description: Online Chatbot-based Ticket Booking Application
 
-### `npm start`
+This project is a web-based ticket booking platform developed using the MERN stack (MongoDB, Express, React, Node.js) integrated with a Dialogflow-powered chatbot. The application enables users to browse, search, and book tickets for events, movies, or travel with ease, ensuring a seamless user experience with modern UI elements and chatbot support.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Key Features:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Clean UI: The platform boasts a visually appealing, user-friendly interface, designed for easy navigation and a smooth booking experience.
+Search Filter: Users can filter their search results by categories such as event type, location, date, and price, improving efficiency in finding the right ticket.
+Dialogflow Trained Chatbot: The chatbot, powered by Dialogflow, assists users with booking tickets by answering queries, making recommendations, and handling common customer support issues.
+Secure Payment Gateway Integration: The application incorporates a reliable and secure payment gateway to ensure safe transactions during the ticket booking process.
+This project aims to provide a fully automated, intelligent, and intuitive solution for ticket booking, accessible through both chat-based interaction and traditional web UI.
+## Technologies Used
 
-### `npm test`
+Backend:Node , Express , Axios , CORS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Frontend: React.js, Axios, HTML/CSS, JavaScript/JSX
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Project Links
+- Presentation Link(https://drive.google.com/file/d/14T468u83EESxS3DDD6kDfskVhuBFQ_TI/view?usp=sharing)
+- Video Link(https://drive.google.com/file/d/1TCu30dlMJ6dbFe8WFf9JMQYSth_Qgwjh/view?usp=sharing)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ ## Steps To Start
+install github repository,
+To run Frontend
+cd into frontend
+do npm start
+To run backend
+cd into backend
+do node app.js
+\
