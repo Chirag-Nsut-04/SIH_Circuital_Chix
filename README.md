@@ -39,11 +39,17 @@ Frontend: React.js, Axios, HTML/CSS, JavaScript/JSX
 
 
  ## Steps To Start
-install github repository,
+install github repository
+
 To run Frontend
+
 cd into frontend
+
 do npm start
+
 To run backend
+
 cd into backend
+
 do node app.js
 \
